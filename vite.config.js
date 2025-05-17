@@ -171,6 +171,7 @@ const addTransformIndexHtml = {
 // console.warn = () => {}; // Comentamos la anulación de console.warn
 
 export default defineConfig({
+	base: './',
 	plugins: [react()], // Desactivamos addTransformIndexHtml temporalmente
 	server: {
 		cors: true,
