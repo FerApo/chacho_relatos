@@ -11,7 +11,6 @@
     "start": "concurrently \"npm run server\" \"npm run dev\""
   },
   "dependencies": {
-    "@emotion/is-prop-valid": "^1.2.1",
     "@radix-ui/react-alert-dialog": "^1.0.5",
     "@radix-ui/react-avatar": "^1.0.3",
     "@radix-ui/react-checkbox": "^1.0.4",
@@ -34,13 +33,9 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "express-session": "^1.18.1",
-    "form-data": "^4.0.2",
     "framer-motion": "^10.16.4",
-    "groq-sdk": "^0.21.0",
-    "html2canvas": "^1.4.1",
     "jspdf": "^2.5.1",
     "lucide-react": "^0.285.0",
-    "openai": "^4.97.0",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
     "react": "^18.2.0",
@@ -49,8 +44,7 @@
     "react-router-dom": "^6.16.0",
     "stripe": "^18.1.0",
     "tailwind-merge": "^1.14.0",
-    "tailwindcss-animate": "^1.0.7",
-    "translate": "^3.0.1"
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20.8.3",
