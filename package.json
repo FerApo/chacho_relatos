@@ -36,6 +36,7 @@
     "framer-motion": "^10.16.4",
     "jspdf": "^2.5.1",
     "lucide-react": "^0.285.0",
+    "node-fetch": "^3.3.2",
     "passport": "^0.7.0",
     "passport-google-oauth20": "^2.0.0",
     "react": "^18.2.0",
@@ -44,7 +45,8 @@
     "react-router-dom": "^6.16.0",
     "stripe": "^18.1.0",
     "tailwind-merge": "^1.14.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "translate": "^3.0.1"
   },
   "devDependencies": {
     "@types/node": "^20.8.3",
